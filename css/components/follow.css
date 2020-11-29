@@ -1,0 +1,18 @@
+.follow{
+	text-align: center;
+
+}
+
+.follow li {
+	display: inline;
+	margin:10px;
+
+}
+.follow i{
+	font-size: 80px;
+	color: #FFDD7A;
+}
+
+.follow h1{
+	font-weight: bold;
+}
